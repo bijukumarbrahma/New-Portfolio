@@ -1358,7 +1358,7 @@ body:has(button:hover) .cursor-ring { width: 50px; height: 50px; opacity: 0.4; }
 ════════════════════════════════════════ */
 .back-to-top {
   position: fixed;
-  bottom: 32px;
+  bottom: 30px;
   right: 32px;
   width: 48px; height: 48px;
   border-radius: 50%;
