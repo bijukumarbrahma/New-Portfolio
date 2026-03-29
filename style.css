@@ -900,8 +900,8 @@ body:has(button:hover) .cursor-ring { width: 50px; height: 50px; opacity: 0.4; }
   position: relative;
 }
 .ai-bg { background: linear-gradient(135deg, #0a1628 0%, #0d2040 100%); }
-.fitness-bg { background: linear-gradient(135deg, #0a1a10 0%, #0d2818 100%); }
-.quiz-bg { background: linear-gradient(135deg, #1a0a28 0%, #280d40 100%); }
+.fitness-bg { background: linear-gradient(135deg, #d4d62a 0%, #7e7c14 100%); }
+.quiz-bg { background: linear-gradient(135deg, #9f7416 0%, #9f7416 100%); }
 .portfolio-bg { background: linear-gradient(135deg, #1a100a 0%, #2a1a0d 100%); }
 
 .thumb-pattern {
@@ -918,8 +918,8 @@ body:has(button:hover) .cursor-ring { width: 50px; height: 50px; opacity: 0.4; }
   transition: transform var(--transition);
 }
 .ai-bg .thumb-icon { color: var(--accent); filter: drop-shadow(0 0 20px var(--accent)); }
-.fitness-bg .thumb-icon { color: #22c55e; filter: drop-shadow(0 0 20px #22c55e); }
-.quiz-bg .thumb-icon { color: #a78bfa; filter: drop-shadow(0 0 20px #a78bfa); }
+.fitness-bg .thumb-icon { color: #3f3c0c; filter: drop-shadow(0 0 20px #d3dd1e); }
+.quiz-bg .thumb-icon { color:#cfae66; filter: drop-shadow(0 0 20px #cfae66); }
 .portfolio-bg .thumb-icon { color: var(--gold); filter: drop-shadow(0 0 20px var(--gold)); }
 
 .project-card:hover .thumb-icon { transform: scale(1.1); }
@@ -974,7 +974,7 @@ body:has(button:hover) .cursor-ring { width: 50px; height: 50px; opacity: 0.4; }
 }
 .featured-tag { background: rgba(245,158,11,0.1); color: var(--gold); border-color: rgba(245,158,11,0.3); }
 .ai-tag { background: rgba(0,200,255,0.1); color: var(--accent); }
-.fullstack-tag { background: rgba(16,185,129,0.1); color: #10b981; border-color: rgba(16,185,129,0.3); }
+.fullstack-tag { background: rgba(16,185,129,0.1); color: #b9a510; border-color: rgba(16,185,129,0.3); }
 .frontend-tag { background: rgba(139,92,246,0.1); color: #a78bfa; border-color: rgba(139,92,246,0.3); }
 
 .project-title { font-size: 1.2rem; font-weight: 700; margin-bottom: 10px; }
